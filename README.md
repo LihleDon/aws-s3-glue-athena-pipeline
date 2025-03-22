@@ -44,3 +44,8 @@ The pipeline follows these steps:
 1. Navigate to **Amazon Athena**.
 2. Go to **Settings**.
 3. Set query result location to:
+
+---
+
+## Connect   
+- LinkedIn: [Lihle Dotyeni](https://www.linkedin.com/in/lihle-dotyeni-28297126b)  
